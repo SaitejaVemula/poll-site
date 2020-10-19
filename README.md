@@ -14,11 +14,11 @@ Go to the [VSCode website](https://code.visualstudio.com/Download) and follow th
 
 ### Clone the repo
 In a folder of your choice, run
-`git clone https://github.com/HurriedHighlander/dev-event-pilot.git`
-This will create a "dev-event-pilot" folder in the folder where you ran the command. 
+`git clone https://github.com/ProgrammersPalace/poll-site.git`
+This will create a "poll-site" folder in the folder where you ran the command. 
 
 ### Install packages for the frontend (first time only)
-In the dev-event-pilot folder, locate the `frontend` folder and cd into it. Run `npm install` to install the packages. This may take a few minutes. 
+In the poll-site folder, locate the `frontend` folder and cd into it. Run `npm install` to install the packages. This may take a few minutes. 
 
 ## Development workflow
 
